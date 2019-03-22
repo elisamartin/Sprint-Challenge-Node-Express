@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+Routing and Middleware
+
 - [ ] Describe Middleware?
+
+A set of functions that extend the software, is used to add features to express, can change the request or response
 
 - [ ] Describe a Resource?
 
+Is data we can request using CRUD operations
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+A status code and/or a message
+
 - [ ] How can we partition our application into sub-applications?
+
+By creating and importing routes
 
 ## Project Setup
 
